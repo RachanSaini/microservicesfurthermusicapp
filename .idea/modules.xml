@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MuzixApplicationMongodUser/MuzixApplicationUser.iml" filepath="$PROJECT_DIR$/MuzixApplicationMongodUser/MuzixApplicationUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuzixApplicationMongodTrack/MuzixApplicationTrack.iml" filepath="$PROJECT_DIR$/MuzixApplicationMongodTrack/MuzixApplicationTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/eurekaservice/eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-zulu/micro-service-zulu.iml" filepath="$PROJECT_DIR$/micro-service-zulu/micro-service-zulu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicesupdated.iml" filepath="$PROJECT_DIR$/microservicesupdated.iml" />
+    </modules>
+  </component>
+</project>
