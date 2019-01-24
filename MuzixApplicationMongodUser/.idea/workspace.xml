@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fcfc634-56d0-4d51-9657-5c6c11007ec3" name="Default Changelist" comment="" />
+    <list default="true" id="6fcfc634-56d0-4d51-9657-5c6c11007ec3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MuzixApplicationMongodTrack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MuzixApplicationMongodTrack/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -329,7 +331,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
