@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping(value = "/api/v1")
+@RequestMapping(value = "api/v1")
 @Api(value = "Track Service ", description = "tracks")
 public class TrackController {
 
@@ -47,7 +47,7 @@ public class TrackController {
     }
 
     @ApiOperation(value = "Gets all tracks")
-    @GetMapping("/track")
+    @GetMapping("track")
     public ResponseEntity<?> getAllTracks(){
         return new ResponseEntity<List<Track>>(trackService.getAllTracks(),HttpStatus.OK);
     }
