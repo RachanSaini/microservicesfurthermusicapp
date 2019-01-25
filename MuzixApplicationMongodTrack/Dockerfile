@@ -1,7 +1,7 @@
 FROM openjdk:11.0-jdk
 
-ADD ./target/MuzixApplication-0.0.1-SNAPSHOT.jar /track/app/MuzixApplication-0.0.1-SNAPSHOT.jar
+ADD ./target/MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar /track/app/MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar
 
-EXPOSE 8096
+WORKDIR track/app
 
-ENTRYPOINT ["java", "-jar", "MuzixApplication-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-jar", "MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar"]

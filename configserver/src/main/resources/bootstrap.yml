@@ -1,0 +1,22 @@
+eureka:
+    client:
+        fetch-registry: true
+        register-with-eureka: true
+        service-url:
+            defaultZone: http://172.23.239.110:8761/eureka/
+management:
+    endpoints:
+        web:
+            exposure:
+                include: '*'
+#server:
+#    port: 8888
+spring:
+    application:
+        name: configserver
+    cloud:
+        config:
+            server:
+                git:
+                    force-pull: true
+                    uri: https://github.com/RachanSaini/config-server
