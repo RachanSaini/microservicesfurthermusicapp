@@ -2,95 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e583be8d-4521-4dae-8e87-77595f738c89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_0_RC2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_0_RC2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_0_RC3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_0_RC3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_0_RC3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_1_0_RC3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_0_RC2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_RC3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_0_RC3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/MuzixApplicationTrack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/MuzixApplicationTrack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/MuzixApplicationMongodTrack-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/surefire-reports/TEST-com.stackroute.track.LombokDemoApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/surefire-reports/TEST-com.stackroute.track.LombokDemoApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/surefire-reports/com.stackroute.track.LombokDemoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodTrack/target/surefire-reports/com.stackroute.track.LombokDemoApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/MuzixApplicationUser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/MuzixApplicationUser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/src/test/java/com/stackroute/user/LombokDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/src/test/java/com/stackroute/user/LombokDemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/MuzixApplicationMongodUser-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/MuzixApplicationMongodUser-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/MuzixApplicationMongodUser-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/MuzixApplicationMongodUser-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/surefire-reports/TEST-com.stackroute.user.LombokDemoApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/surefire-reports/com.stackroute.user.LombokDemoApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MuzixApplicationMongodUser/target/test-classes/com/stackroute/user/LombokDemoApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configserver/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configserver/src/main/java/com/stackroute/configserver/ConfigserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/java/com/stackroute/configserver/ConfigserverApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaservice/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaservice/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaservice/src/main/resources/bootstrap.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurekaservice/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaservice/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-zulu/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-zulu/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-zulu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-zulu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/configserver/target/" />
@@ -133,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.properties">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="45">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -173,18 +87,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MuzixApplicationMongodUser/src/main/java/com/stackroute/user/MuzixApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -193,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -240,6 +142,7 @@
         <option value="$PROJECT_DIR$/micro-service-zulu/Dockerfile" />
         <option value="$PROJECT_DIR$/micro-service-zulu/src/main/java/com/stackroute/zuul/MicroServiceZuluApplication.java" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -287,49 +190,6 @@
               <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
               <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-zulu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-zulu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-zulu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-zulu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-zulu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicesupdated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MicroServices" type="462c0819:PsiDirectoryNode" />
-              <item name="micro-service-zulu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -337,7 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548427654689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548428685883" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -404,9 +264,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29589778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39139205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,7 +288,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.14391392" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.14391392" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -540,13 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaservice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eurekaservice/src/main/java/com/stackroute/eureka/EurekaserviceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -605,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MuzixApplicationMongodUser/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -647,6 +492,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-service-zulu/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>

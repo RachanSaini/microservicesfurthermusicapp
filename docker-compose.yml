@@ -63,7 +63,7 @@ services:
     build: micro-service-zulu/
     restart: always
     network_mode: host
-    container_name: spring-docker
+    container_name: zuul-service-docker
     ports:
       - "8097:8097"
     expose:

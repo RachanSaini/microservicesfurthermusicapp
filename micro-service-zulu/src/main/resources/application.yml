@@ -1,0 +1,25 @@
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:9091/eureka/
+fetch-registry: true
+host:
+    socket-timeout-millis: 60000000
+management:
+    security:
+        enabled: false
+register-with-eureka: true
+ribbon:
+    eureka:
+        enabled: true
+server:
+    port: 8097
+spring:
+    application:
+        name: zuul
+zuul:
+    routes:
+        track:
+            url: https://localhost:8096
+        user:
+            url: https://localhost:8095
