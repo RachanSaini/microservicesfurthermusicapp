@@ -14,9 +14,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="configserver" target="1.8" />
+      <module name="configserver" target="11" />
       <module name="eurekaservice" target="1.8" />
-      <module name="micro-service-zuul" target="1.8" />
+      <module name="micro-service-zuul" target="11" />
       <module name="microservicesupdated" target="11" />
       <module name="MuzixApplicationMongodUser" target="11" />
       <module name="MuzixApplicationTrack" target="11" />

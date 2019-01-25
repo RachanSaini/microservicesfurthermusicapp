@@ -6,8 +6,8 @@
 		<groupId>com.stackroute</groupId>
 		<artifactId>microservicesupdated</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>./pom.xml</relativePath>
-		 <!-- lookup parent from repository -->
+		<!--<relativePath/>-->
+
 	</parent>
 	<groupId>com.stackroute</groupId>
 	<artifactId>configserver</artifactId>
@@ -16,15 +16,24 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
+<!--
 		<spring-cloud.version>Greenwich.RC2</spring-cloud.version>
+-->
 	</properties>
 
 	<dependencies>
+		<!--<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
+		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
+			<version>2.1.0.RELEASE</version>
 		</dependency>
+
+
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
@@ -38,13 +47,26 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		<!--<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-config-server</artifactId>
+		</dependency>-->
+		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-server -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-config-server</artifactId>
+			<version>2.1.0.RELEASE</version>
 		</dependency>
+
+		<!--<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+		</dependency>-->
+
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+			<version>2.0.2.RELEASE</version>
 		</dependency>
 
 		<dependency>
@@ -54,7 +76,7 @@
 		</dependency>
 	</dependencies>
 
-	<dependencyManagement>
+	<!--<dependencyManagement>
 		<dependencies>
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
@@ -64,7 +86,7 @@
 				<scope>import</scope>
 			</dependency>
 		</dependencies>
-	</dependencyManagement>
+	</dependencyManagement>-->
 
 	<build>
 		<plugins>
@@ -75,12 +97,12 @@
 		</plugins>
 	</build>
 
-	<repositories>
+	<!--<repositories>
 		<repository>
 			<id>spring-milestones</id>
 			<name>Spring Milestones</name>
 			<url>https://repo.spring.io/milestone</url>
 		</repository>
-	</repositories>
+	</repositories>-->
 
 </project>
