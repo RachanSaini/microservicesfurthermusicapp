@@ -4,4 +4,6 @@ ADD ./target/MuzixApplicationMongodUser-0.0.1-SNAPSHOT.jar /user/app/MuzixApplic
 
 WORKDIR user/app
 
+EXPOSE 8095
+
 ENTRYPOINT ["java", "-jar", "MuzixApplicationMongodUser-0.0.1-SNAPSHOT.jar"]

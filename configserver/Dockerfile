@@ -4,6 +4,6 @@ ADD ./target/configserver-0.0.1-SNAPSHOT.jar /configserver/app/configserver-0.0.
 
 #WORKDIR configserver/app
 
-EXPOSE 8888
+EXPOSE 8099
 
 ENTRYPOINT ["java", "-jar", "configserver-0.0.1-SNAPSHOT.jar"]

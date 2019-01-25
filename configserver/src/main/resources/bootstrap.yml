@@ -1,16 +1,7 @@
-eureka:
-    client:
-        fetch-registry: true
-        register-with-eureka: true
-        service-url:
-            defaultZone: http://172.23.239.110:8761/eureka/
-management:
-    endpoints:
-        web:
-            exposure:
-                include: '*'
-#server:
-#    port: 8888
+
+
+server:
+    port: 8066
 spring:
     application:
         name: configserver

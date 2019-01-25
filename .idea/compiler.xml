@@ -11,21 +11,24 @@
         <module name="micro-service-zuul" />
         <module name="MuzixApplicationMongodUser" />
         <module name="MuzixApplicationTrack" />
+        <module name="MuzixApplicationUser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="configserver" target="11" />
-      <module name="eurekaservice" target="1.8" />
+      <module name="eurekaservice" target="11" />
       <module name="micro-service-zuul" target="11" />
       <module name="microservicesupdated" target="11" />
       <module name="MuzixApplicationMongodUser" target="11" />
       <module name="MuzixApplicationTrack" target="11" />
+      <module name="MuzixApplicationUser" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MuzixApplicationMongodUser" options="-parameters" />
       <module name="MuzixApplicationTrack" options="-parameters" />
+      <module name="MuzixApplicationUser" options="-parameters" />
       <module name="configserver" options="-parameters" />
       <module name="eurekaservice" options="-parameters" />
       <module name="micro-service-zuul" options="-parameters" />
