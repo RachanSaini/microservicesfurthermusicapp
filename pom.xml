@@ -66,7 +66,7 @@
     <modules>
         <module>configserver</module>
         <module>eurekaservice</module>
-        <module>micro-service-zulu</module>
+        <module>m</module>
         <module>MuzixApplicationMongodTrack</module>
         <module>MuzixApplicationMongodUser</module>
     </modules>

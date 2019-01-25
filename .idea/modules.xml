@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MuzixApplicationMongodTrack/MuzixApplicationTrack.iml" filepath="$PROJECT_DIR$/MuzixApplicationMongodTrack/MuzixApplicationTrack.iml" />
       <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/eurekaservice/eurekaservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/micro-service-zulu/micro-service-zulu.iml" filepath="$PROJECT_DIR$/micro-service-zulu/micro-service-zulu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-zulu/micro-service-zuul.iml" filepath="$PROJECT_DIR$/micro-service-zulu/micro-service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservicesupdated.iml" filepath="$PROJECT_DIR$/microservicesupdated.iml" />
     </modules>
   </component>
