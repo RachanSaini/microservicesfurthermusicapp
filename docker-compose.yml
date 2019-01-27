@@ -63,6 +63,7 @@ services:
     build: micro-service-zulu/
     restart: always
     network_mode: host
+    hostname: localhost
     container_name: zuul-service-docker
     ports:
       - "8097:8097"
