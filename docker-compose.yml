@@ -43,21 +43,21 @@ services:
     expose:
       - 8096
 
-  user-service:
-    build: MuzixApplicationMongodUser/
-    restart: always
-    network_mode: host
-    hostname: localhost
-    container_name: user-service-docker
-    depends_on:
-      - config-server
-      - eureka-service
-      - mongo
-
-    ports:
-      - "8095:8095"
-    expose:
-      - 8095
+#  user-service:
+#    build: MuzixApplicationMongodUser/
+#    restart: always
+#    network_mode: host
+#    hostname: localhost
+#    container_name: user-service-docker
+#    depends_on:
+#      - config-server
+#      - eureka-service
+#      - mongo
+#
+#    ports:
+#      - "8095:8095"
+#    expose:
+#      - 8095
 
   zuul-service:
     build: micro-service-zulu/

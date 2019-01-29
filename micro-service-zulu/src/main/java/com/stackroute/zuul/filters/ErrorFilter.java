@@ -3,6 +3,7 @@ package com.stackroute.zuul.filters;
 import com.netflix.zuul.ZuulFilter;
 
 public class ErrorFilter extends ZuulFilter {
+
     @Override
     public String filterType() {
         return "error";
@@ -10,7 +11,7 @@ public class ErrorFilter extends ZuulFilter {
 
     @Override
     public int filterOrder() {
-        return 1;
+        return 0;
     }
 
     @Override
@@ -20,8 +21,7 @@ public class ErrorFilter extends ZuulFilter {
 
     @Override
     public Object run() {
-        System.out.println("Inside Route Filter");
-
+        System.out.println("inside the error");
         return null;
     }
 }

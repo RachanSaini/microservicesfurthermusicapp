@@ -7,6 +7,6 @@ spring:
 zuul:
     routes:
         track:
-            url: https://localhost:8096
+            url: http://localhost:8096
         user:
-            url: https://localhost:8095
+            url: http://localhost:8095
